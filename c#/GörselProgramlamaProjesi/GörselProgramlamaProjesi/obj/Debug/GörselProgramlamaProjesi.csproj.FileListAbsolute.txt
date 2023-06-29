@@ -1,0 +1,26 @@
+C:\Users\anıl\source\repos\GörselProgramlamaProjesi\GörselProgramlamaProjesi\bin\Debug\GörselProgramlamaProjesi.exe.config
+C:\Users\anıl\source\repos\GörselProgramlamaProjesi\GörselProgramlamaProjesi\bin\Debug\GörselProgramlamaProjesi.exe
+C:\Users\anıl\source\repos\GörselProgramlamaProjesi\GörselProgramlamaProjesi\bin\Debug\GörselProgramlamaProjesi.pdb
+C:\Users\anıl\source\repos\GörselProgramlamaProjesi\GörselProgramlamaProjesi\obj\Debug\GörselProgramlamaProjesi.csprojAssemblyReference.cache
+C:\Users\anıl\source\repos\GörselProgramlamaProjesi\GörselProgramlamaProjesi\obj\Debug\GörselProgramlamaProjesi.Properties.Resources.resources
+C:\Users\anıl\source\repos\GörselProgramlamaProjesi\GörselProgramlamaProjesi\obj\Debug\GörselProgramlamaProjesi.csproj.GenerateResource.cache
+C:\Users\anıl\source\repos\GörselProgramlamaProjesi\GörselProgramlamaProjesi\obj\Debug\GörselProgramlamaProjesi.csproj.CoreCompileInputs.cache
+C:\Users\anıl\source\repos\GörselProgramlamaProjesi\GörselProgramlamaProjesi\obj\Debug\GörselProgramlamaProjesi.exe
+C:\Users\anıl\source\repos\GörselProgramlamaProjesi\GörselProgramlamaProjesi\obj\Debug\GörselProgramlamaProjesi.pdb
+C:\Users\anıl\source\repos\GörselProgramlamaProjesi\GörselProgramlamaProjesi\obj\Debug\GörselProgramlamaProjesi.Ekran1.resources
+C:\Users\anıl\source\repos\GörselProgramlamaProjesi\GörselProgramlamaProjesi\obj\Debug\GörselProgramlamaProjesi.Satıs1.resources
+C:\Users\anıl\source\repos\GörselProgramlamaProjesi\GörselProgramlamaProjesi\obj\Debug\GörselProgramlamaProjesi.Alıs1.resources
+C:\Users\anıl\source\repos\GörselProgramlamaProjesi\GörselProgramlamaProjesi\obj\Debug\GörselProgramlamaProjesi.Istatistik.resources
+C:\Users\anıl\Desktop\Dersler\Projelerim\2006022006_anıl_sezgin_final\VİSUALSTUDİO KODLARI\GörselProgramlamaProjesi\GörselProgramlamaProjesi\bin\Debug\GörselProgramlamaProjesi.exe.config
+C:\Users\anıl\Desktop\Dersler\Projelerim\2006022006_anıl_sezgin_final\VİSUALSTUDİO KODLARI\GörselProgramlamaProjesi\GörselProgramlamaProjesi\bin\Debug\GörselProgramlamaProjesi.exe
+C:\Users\anıl\Desktop\Dersler\Projelerim\2006022006_anıl_sezgin_final\VİSUALSTUDİO KODLARI\GörselProgramlamaProjesi\GörselProgramlamaProjesi\bin\Debug\GörselProgramlamaProjesi.pdb
+C:\Users\anıl\Desktop\Dersler\Projelerim\2006022006_anıl_sezgin_final\VİSUALSTUDİO KODLARI\GörselProgramlamaProjesi\GörselProgramlamaProjesi\obj\Debug\GörselProgramlamaProjesi.csprojAssemblyReference.cache
+C:\Users\anıl\Desktop\Dersler\Projelerim\2006022006_anıl_sezgin_final\VİSUALSTUDİO KODLARI\GörselProgramlamaProjesi\GörselProgramlamaProjesi\obj\Debug\GörselProgramlamaProjesi.Alıs1.resources
+C:\Users\anıl\Desktop\Dersler\Projelerim\2006022006_anıl_sezgin_final\VİSUALSTUDİO KODLARI\GörselProgramlamaProjesi\GörselProgramlamaProjesi\obj\Debug\GörselProgramlamaProjesi.Ekran1.resources
+C:\Users\anıl\Desktop\Dersler\Projelerim\2006022006_anıl_sezgin_final\VİSUALSTUDİO KODLARI\GörselProgramlamaProjesi\GörselProgramlamaProjesi\obj\Debug\GörselProgramlamaProjesi.Istatistik.resources
+C:\Users\anıl\Desktop\Dersler\Projelerim\2006022006_anıl_sezgin_final\VİSUALSTUDİO KODLARI\GörselProgramlamaProjesi\GörselProgramlamaProjesi\obj\Debug\GörselProgramlamaProjesi.Properties.Resources.resources
+C:\Users\anıl\Desktop\Dersler\Projelerim\2006022006_anıl_sezgin_final\VİSUALSTUDİO KODLARI\GörselProgramlamaProjesi\GörselProgramlamaProjesi\obj\Debug\GörselProgramlamaProjesi.Satıs1.resources
+C:\Users\anıl\Desktop\Dersler\Projelerim\2006022006_anıl_sezgin_final\VİSUALSTUDİO KODLARI\GörselProgramlamaProjesi\GörselProgramlamaProjesi\obj\Debug\GörselProgramlamaProjesi.csproj.GenerateResource.cache
+C:\Users\anıl\Desktop\Dersler\Projelerim\2006022006_anıl_sezgin_final\VİSUALSTUDİO KODLARI\GörselProgramlamaProjesi\GörselProgramlamaProjesi\obj\Debug\GörselProgramlamaProjesi.csproj.CoreCompileInputs.cache
+C:\Users\anıl\Desktop\Dersler\Projelerim\2006022006_anıl_sezgin_final\VİSUALSTUDİO KODLARI\GörselProgramlamaProjesi\GörselProgramlamaProjesi\obj\Debug\GörselProgramlamaProjesi.exe
+C:\Users\anıl\Desktop\Dersler\Projelerim\2006022006_anıl_sezgin_final\VİSUALSTUDİO KODLARI\GörselProgramlamaProjesi\GörselProgramlamaProjesi\obj\Debug\GörselProgramlamaProjesi.pdb
